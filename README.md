@@ -3,7 +3,9 @@
 Homebrew casks for [mortalxu98](https://github.com/mortalxu98)'s apps.
 
 ```bash
-brew install --cask mortalxu98/tap/email-vault
+brew tap mortalxu98/tap
+brew trust mortalxu98/tap          # Homebrew 7+ asks you to trust third-party taps
+brew install --cask email-vault
 ```
 
 | Cask | App |
