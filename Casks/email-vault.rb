@@ -1,6 +1,6 @@
 cask "email-vault" do
-  version "1.1.0"
-  sha256 "d7f77fb54e00b10c1f7339ce23f2131814ebac20ec89d8e617e8fb30b7d6133e"
+  version "1.1.1"
+  sha256 "3afc64e3591a30ca781eba6fb36d6943c10191685155076fed07e8d0daede74c"
 
   url "https://github.com/opsfantasy/email-vault/releases/download/v#{version}/EmailVault-#{version}.dmg"
   name "Email Vault"
