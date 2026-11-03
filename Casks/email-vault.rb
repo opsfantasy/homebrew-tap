@@ -2,10 +2,10 @@ cask "email-vault" do
   version "1.1.0"
   sha256 "d7f77fb54e00b10c1f7339ce23f2131814ebac20ec89d8e617e8fb30b7d6133e"
 
-  url "https://github.com/mortalxu98/email-vault/releases/download/v#{version}/EmailVault-#{version}.dmg"
+  url "https://github.com/opsfantasy/email-vault/releases/download/v#{version}/EmailVault-#{version}.dmg"
   name "Email Vault"
   desc "Offline, encrypted password vault that organizes accounts by email"
-  homepage "https://github.com/mortalxu98/email-vault"
+  homepage "https://github.com/opsfantasy/email-vault"
 
   livecheck do
     url :url
